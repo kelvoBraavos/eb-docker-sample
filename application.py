@@ -28,7 +28,7 @@ welcome = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AWS Elastic Beanstalk - Docker Sample Application</title>
+    <title>AWS Elastic Beanstalk - Docker Sample Application V2</title>
     <style>
         :root {
             --aws-squid-ink: #232f3e;
