@@ -1,4 +1,4 @@
-name: Deploy (development) to AWS Elastic Beanstalk via AWS CLI
+name: Deploy (development) to AWS Elastic Beanstalk via AWS CLI v6
 
 on:
   push:
