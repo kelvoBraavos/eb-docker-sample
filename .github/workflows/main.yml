@@ -11,7 +11,7 @@ jobs:
     env:
       AWS_REGION: us-east-1
       EB_APP_NAME: Docker-app
-      EB_ENV_NAME: Docker-app-env
+      EB_ENV_NAME: Docker-app-env-arm
       VERSION_LABEL: eb-docker-sample-${{ github.sha }}
       S3_BUCKET: elasticbeanstalk-us-east-1-076055903153
       BUNDLE_NAME: bundle.zip
